@@ -1,0 +1,14 @@
+{
+  "name": "contextPhone",
+  "version": "1.0.0",
+  "homepage": "https://github.com/LastDanmer/customContent",
+  "authors": [
+    "LastDanmer <html.ru@gmail.com>"
+  ],
+  "description": "change web page content by request context (with saving in cookies)",
+  "main": "customContent.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
